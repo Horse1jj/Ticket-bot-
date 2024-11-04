@@ -1,5 +1,10 @@
 {
-  "token": "YOUR_BOT_TOKEN",
-  "guildId": "YOUR_GUILD_ID",
-  "categoryId": "TICKET_CATEGORY_ID"
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  }
 }
