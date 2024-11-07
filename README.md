@@ -31,4 +31,17 @@ This is a Discord ticket bot built with TypeScript and `discord.js`. The bot all
 
      ```tsc```
 
+## configuration 
+
+Create a `config.json` file in the `src` folder. This file should contain your bot token and other default settings:
+
+``` json 
+
+{
+  "token": "YOUR_BOT_TOKEN",
+  "guildId": "YOUR_GUILD_ID",
+  "categoryId": "TICKET_CATEGORY_ID"
+}
+
+
 
