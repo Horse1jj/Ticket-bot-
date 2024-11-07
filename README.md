@@ -64,3 +64,11 @@ Ticket panels are configured using JSON files stored in the `src/panels/` direct
 
 ```
 
+* id: Unique identifier for the panel (used in code to create the panel)
+* title: Title of the panel message
+* description: Description of the panel message
+* color: Color of the panel embed (in hex format)
+* roleId: Role ID allowed to view and manage tickets created from this panel
+
+You can create multiple panel files in `src/panels/` for different types of tickets (e.g., `support.json`, `sales.json`) 
+
