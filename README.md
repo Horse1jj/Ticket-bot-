@@ -23,3 +23,7 @@ This is a Discord ticket bot built with TypeScript and `discord.js`. The bot all
    ```bash
    git clone https://github.com/your-username/discord-ticket-bot.git
    cd discord-ticket-bot
+
+2. install dependincies 
+
+`npm install`
