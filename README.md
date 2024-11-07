@@ -72,3 +72,14 @@ Ticket panels are configured using JSON files stored in the `src/panels/` direct
 
 You can create multiple panel files in `src/panels/` for different types of tickets (e.g., `support.json`, `sales.json`) 
 
+## usage 
+
+Running the Bot
+To start the bot, run:
+
+``` typescript
+
+node dist/index.js 
+
+``` 
+
