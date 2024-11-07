@@ -52,3 +52,15 @@ Create a `config.json` file in the `src` folder. This file should contain your b
 ## 2. ticket panels 
 
 Ticket panels are configured using JSON files stored in the `src/panels/` directory. Each panel file represents a different type of ticket (e.g., support, feedback) and should have the following structure:
+
+``` json 
+{
+  "id": "support",
+  "title": "Support Ticket",
+  "description": "Click below to open a support ticket.",
+  "color": "#0099ff",
+  "roleId": "SUPPORT_ROLE_ID"
+}
+
+```
+
