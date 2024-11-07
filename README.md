@@ -92,7 +92,7 @@ createTicketPanel('support', 'CHANNEL_ID');
 
 ``` 
 
-Replace 'support' with the ID of the panel (as defined in the JSON file) and 'CHANNEL_ID' with the ID of the channel where you want the panel to appear.
+Replace ```support``` with the ID of the panel (as defined in the JSON file) and ```CHANNEL_ID``` with the ID of the channel where you want the panel to appear.
 
 How Users Create Tickets
 Users click the Open Ticket button on a ticket panel.
