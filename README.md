@@ -92,5 +92,12 @@ createTicketPanel('support', 'CHANNEL_ID');
 
 ``` 
 
+Replace 'support' with the ID of the panel (as defined in the JSON file) and 'CHANNEL_ID' with the ID of the channel where you want the panel to appear.
 
+How Users Create Tickets
+Users click the Open Ticket button on a ticket panel.
+
+* A private ticket channel is created under the specified category with permissions configured based on the panel’s settings.
+
+* Users and authorized roles can view and respond in the ticket channel.
 
