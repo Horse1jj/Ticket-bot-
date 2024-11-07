@@ -101,3 +101,11 @@ Users click the Open Ticket button on a ticket panel.
 
 * Users and authorized roles can view and respond in the ticket channel.
 
+## How Users Create Tickets
+
+* Users click the Open Ticket button on a ticket panel.
+
+* A private ticket channel is created under the specified category with permissions configured based on the panel’s settings.
+
+* Users and authorized roles can view and respond in the ticket channel.
+
