@@ -43,6 +43,8 @@ Create a `config.json` file in the `src` folder. This file should contain your b
   "categoryId": "TICKET_CATEGORY_ID"
 }
 
+```
+
 * token: Your Discord bot token
 * guildId: The ID of your Discord server
 * categoryId: The ID of the category under which all tickets will be created
