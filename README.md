@@ -1,6 +1,5 @@
 # ticket bot 
 
-# Discord Ticket Bot
 
 This is a Discord ticket bot built with TypeScript and `discord.js`. The bot allows server admins to create custom ticket panels where users can open tickets. Each panel can have its own settings, such as custom titles, descriptions, and access roles.
 
@@ -22,7 +21,7 @@ This is a Discord ticket bot built with TypeScript and `discord.js`. The bot all
 
    ```bash
    git clone https://github.com/your-username/discord-ticket-bot.git
-   cd discord-ticket-bot
+   cd -ticket-bot
 
 2. install dependincies 
 
