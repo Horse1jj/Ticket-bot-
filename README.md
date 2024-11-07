@@ -49,4 +49,6 @@ Create a `config.json` file in the `src` folder. This file should contain your b
 * guildId: The ID of your Discord server
 * categoryId: The ID of the category under which all tickets will be created
 
+## 2. ticket panels 
 
+Ticket panels are configured using JSON files stored in the `src/panels/` directory. Each panel file represents a different type of ticket (e.g., support, feedback) and should have the following structure:
