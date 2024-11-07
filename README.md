@@ -26,6 +26,6 @@ This is a Discord ticket bot built with TypeScript and `discord.js`. The bot all
 
 2. install dependincies 
 
-```npm install```
+   ```npm install```
 
 
