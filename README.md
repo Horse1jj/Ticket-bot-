@@ -83,3 +83,14 @@ node dist/index.js
 
 ``` 
 
+
+In your code, call the createTicketPanel function to post a ticket panel in a specific channel: 
+
+``` typescript
+
+createTicketPanel('support', 'CHANNEL_ID');
+
+``` 
+
+
+
