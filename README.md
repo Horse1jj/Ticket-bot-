@@ -28,4 +28,8 @@ This is a Discord ticket bot built with TypeScript and `discord.js`. The bot all
 
    ```npm install```
 
+2. Compile TypeScript to JavaScript:
+
+     ```tsc```
+
 
